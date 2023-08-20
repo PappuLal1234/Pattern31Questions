@@ -1,1 +1,1 @@
-# All basic 31 Question's Code in java & here a pdf also provided where you can see list of 31 Pattern problem  
+### All basic 31 Question's Code in java & here a pdf also provided where you can see list of<span> <a href="https://github.com/PappuLal1234/Pattern31Questions/blob/master/AllBasic31PatternQuestions.pdf">31 Pattern problem  </a></span>
